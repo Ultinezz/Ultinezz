@@ -1,3 +1,1 @@
-Hi there.
-You may know me as Nez, or you may know me as Martin.
-I be here cuz I'm learning making games, that's about it.
+Hey! I'm Martin (aka Nez) and I'm learning game dev along with other things on the side.
